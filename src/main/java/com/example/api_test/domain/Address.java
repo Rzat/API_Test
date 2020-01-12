@@ -26,6 +26,7 @@ public class Address {
     @NotBlank
     private String addr_line_one;
     private String addr_line_two;
+    @NotBlank
     private String city;
 
     //@ManyToMany(mappedBy = "addresses")
