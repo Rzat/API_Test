@@ -135,8 +135,8 @@ Get ALl Employee:
 Delete Employee:
 				http://localhost:8080/api/v1/Employee/1/delete
 				
-				response:
+				Status:200 OK
 				
-						Employee with id 1 Deleted Successfully
+						
 								
  
