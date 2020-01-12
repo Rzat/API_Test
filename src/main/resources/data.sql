@@ -1,0 +1,1 @@
+INSERT INTO address (addr_line_one,addr_line_two,city) VALUES   ('NINDIAN','Nindian2','Bangalore');
